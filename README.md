@@ -1,5 +1,5 @@
 # Automatic Number Plate Recognition In Real Time 
-Perform Number Plate Recognition with the TensorFlow Object Detection API and a PyTorch OCR model. With real time detection through the webcam the results are going to be saved in realtimeresults.csv
+Perform Number Plate Recognition with the TensorFlow Object Detection API and a PyTorch OCR model for detecting the text in the plate. With real time through the webcam the results are going to be saved in realtimeresults.csv
 
 ![Screenshot](test_image.png)
 
@@ -9,7 +9,7 @@ The training dataset is from Kaggle: https://www.kaggle.com/datasets/andrewmvd/c
 <br />
 <b>Step 1.</b> Clone this repository
 <pre>
-git clone [name]
+git clone https://github.com/schehat/automatic_number_plate_recognition
 </pre>
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
