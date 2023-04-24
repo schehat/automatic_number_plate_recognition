@@ -28,7 +28,8 @@ pip install -r /path/to/requirements.txt
 python -m ipykernel install --user --name=anpr
 </pre>
 <br/>
-<b>Optionally: training model</b> Download images from kaggle and divide the collected images & annotations into two folders train and test and you should be good to go.
+<b>Optionally: training model</b>
+<br>Download images from kaggle and divide the collected images & annotations into two folders train and test and you should be good to go.
 <b> Tensorflow\workspace\images\train
 <b> Tensorflow\workspace\images\train
 <br>
